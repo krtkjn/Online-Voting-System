@@ -1,6 +1,6 @@
 # Online-Voting-System
 ### Installation
-**1. Create a Folder where you want to save the project**
+**1. Create a Folder where you want to Create the project**
 
 **2. Create a Virtual Environment and Activate**
 
